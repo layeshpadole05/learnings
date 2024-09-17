@@ -8,6 +8,7 @@ What You’ll Find Here
 Daily Logs 📅: Detailed entries about the AI/ML topics I’m learning, projects I’m working on, and key takeaways from each day.
 
 Projects 💻: Hands-on implementations and experiments demonstrating various AI/ML techniques and models.
+
 Resources 📚: A collection of valuable tutorials, research papers, and tools that have been instrumental in my learning journey.
 
 Feel free to follow along, contribute, or share your thoughts. Let’s embark on this AI/ML adventure together! 🌟
